@@ -1,7 +1,5 @@
 # BombRushThermostat
 
-Tweak the heat.
-
 A collection of quality-of-life patches for Bomb Rush Cyberfunk.
 
 ## Retagging
